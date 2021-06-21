@@ -30,6 +30,8 @@
 numbers=[int(i) for i in numbers]
 line=re.findall("\D", line)
 line_2="".join(line)</pre>
+print("Числа в строке:" , numbers)
+print("Символы в строке:",upper_first_and_last(line_2))
 
 Пункт 3:
 <pre>def upper_first_and_last(line_for_upper):

@@ -29,9 +29,9 @@
 <pre>numbers = re.findall(r"\d+", line)
 numbers=[int(i) for i in numbers]
 line=re.findall("\D", line)
-line_2="".join(line)</pre>
+line_2="".join(line)
 print("Числа в строке:" , numbers)
-print("Символы в строке:",upper_first_and_last(line_2))
+print("Символы в строке:",upper_first_and_last(line_2))</pre>
 
 Пункт 3:
 <pre>def upper_first_and_last(line_for_upper):

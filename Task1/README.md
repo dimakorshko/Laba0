@@ -1,13 +1,10 @@
-# Laba0
-Laba0
+# Task 1
 <br>Копіюємо файли:
-<br>![image](https://user-images.githubusercontent.com/85683259/121817920-e7b7c400-cc8c-11eb-849c-09cc39c4abe5.png)
-<br>Перевіряємо наявність файлів:
-<br>![image](https://user-images.githubusercontent.com/85683259/121818223-842e9600-cc8e-11eb-8a14-bb4ae5b908ae.png)
-<br>Створюємо комміт:
-<br>![image](https://user-images.githubusercontent.com/85683259/121818453-e9cf5200-cc8f-11eb-851f-528e7ba52d2b.png)
-<br>Завантажуємо на сервер за допомогою команди push:
-<br>![image](https://user-images.githubusercontent.com/85683259/121818429-cf957400-cc8f-11eb-8b99-e07b2a4d951b.png)
-<br>Також був створений SSH ключ
-<br>![image](https://user-images.githubusercontent.com/85683259/121819123-24d38480-cc94-11eb-8ed1-cbdb14c26bfc.png)
+<br>![image](https://user-images.githubusercontent.com/85683259/122770282-f9f9b980-d2ad-11eb-85f0-00290cfc5fd2.png)
+<br>Переміщуємо файли до потрібних папок, та додаємо зміни в коміт. Перевіряємо за допомогою git status:
+<br>![Screenshot_155](https://user-images.githubusercontent.com/85683259/122770669-5a88f680-d2ae-11eb-94df-79e4adbbd741.jpg)
+<br>Виконуємо команду git commit та завантажуємо на сервер за допомогою команди push:
+<br>![Screenshot_156](https://user-images.githubusercontent.com/85683259/122771167-dbe08900-d2ae-11eb-8902-bb000f7cba25.jpg)
+<br>![Screenshot_157](https://user-images.githubusercontent.com/85683259/122771207-e3a02d80-d2ae-11eb-8009-2c648f6d1c9f.jpg)
+
 
